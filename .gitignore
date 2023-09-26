@@ -67,3 +67,6 @@ typings/
 \#*#
 
 .npm-cache
+
+.docker/elasticdata
+.docker/kibanadata
